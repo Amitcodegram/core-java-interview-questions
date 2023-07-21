@@ -36,3 +36,13 @@ This repository holds the questions and answers asked generally in interviews re
 4.  What is the difference between interface and abstract class, explain with real time use case?
 5.  What is comparator in java?
 6.  what makes a HashSet different from a TreeSet?
+7.  What is the importance of reflection API?
+8.  How many ways we can create thread, which one is better and when should be used?
+9.  What is the difference between program and process?
+10.  What is the difference between throws and throw?
+11.  What is the difference between IS-A and HAS-A Relationship in java?
+12.  Which among String or String Buffer should be preferred when there are lot of updates required to be done in the data?
+13.  What happens if the static modifier is not included in the main method signature in Java?
+14.  Can we make the main() thread a daemon thread?
+15.  What happens if there are multiple main methods inside one class in Java?
+16.  What do you understand by Object Cloning and how do you achieve it in Java?
