@@ -24,3 +24,15 @@ This repository holds the questions and answers asked generally in interviews re
 19. Can we overload the static methods?
 20. Why main method is static in java?
 21. Can we override the static methods?
+22. what is the difference between static methods, static variables, and static classes in java.
+23. what does garbadge collection do?can we start the garbadge collection?
+24. what is ClassLoader?
+25. What is shollow copy and deep copy in java?
+
+## Core Java interview Questions For Intermedieat Level
+1.  What is the reason to make String as immutable in java?
+2.  What is Singleton and how do we implement the singleton class in java?
+3.  What is the difference between StringBuilder and StringBuffer?
+4.  What is the difference between interface and abstract class, explain with real time use case?
+5.  What is comparator in java?
+6.  what makes a HashSet different from a TreeSet?
