@@ -46,10 +46,10 @@ This repository holds the questions and answers asked generally in interviews re
 14.  Can we make the main() thread a daemon thread?
 15.  What happens if there are multiple main methods inside one class in Java?
 16.  What do you understand by Object Cloning and how do you achieve it in Java?
-How does an exception propagate in the code?
-How do exceptions affect the program if it doesn't handle them?
-Is it mandatory for a catch block to be followed after a try block?
-Can you call a constructor of a class inside the another constructor?
-Contiguous memory locations are usually used for storing actual values in an array but not in ArrayList. Explain.
-Why does the java array index start with 0?
-Why is the remove method faster in the linked list than in an array?
+17.  How does an exception propagate in the code?
+18.  How do exceptions affect the program if it doesn't handle them?
+19.  Is it mandatory for a catch block to be followed after a try block?
+20.  Can you call a constructor of a class inside the another constructor?
+21.  Contiguous memory locations are usually used for storing actual values in an array but not in ArrayList. Explain.
+22.  Why does the java array index start with 0?
+23.  Why is the remove method faster in the linked list than in an array?
